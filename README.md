@@ -6,6 +6,6 @@
 - sinister (dont really remember the source)
 - reaper (from their discord server)
 - luna (https://github.com/nshoutskiddingservice/Luna-selfbot-source-code/)
-- zenith (eintim23 on discord)
+- zenith (eintim23 on discord) (missing files will be uploaded later)
 
 im planning to rewrite every shit to make it work once i have free time
